@@ -1,5 +1,5 @@
 baseURL = 'https://cloudycounty.com/'
 languageCode = 'en-us'
 title = 'Cloudy County Extension'
-theme = 'ananke'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 publishDir = 'docs'
