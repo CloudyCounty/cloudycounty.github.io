@@ -1,0 +1,4 @@
+baseURL = 'https://cloudycounty.com/'
+languageCode = 'en-us'
+title = 'Cloudy County Extension'
+theme = 'ananke'
